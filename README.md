@@ -1,7 +1,6 @@
 ## Hacker News CLI app
 
-Uses the Hacker News REST API provided by Firebase to return the top N stories
-currently posted to Hacker News
+Uses the Hacker News REST API provided by Firebase to return the top N stories currently posted to Hacker News
 
 Requires Python 3 (tested with Python 3.7.3)
 
